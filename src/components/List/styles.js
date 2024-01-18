@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const ListContainer = styled.div`
     width: 100%;
     min-height: 40px;
-    background-color: #FFAAFA;
+    background-color: #AAAAFF;
 
     display: flex;
     align-items: center;

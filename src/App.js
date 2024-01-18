@@ -5,7 +5,6 @@ import List from './components/List';
 import { Container, Content, Row, Column } from "./styles";
 import { useState } from 'react';
 
-
 const results = [];
 
 const App = () => {

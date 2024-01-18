@@ -10,6 +10,12 @@ export const Container = styled.div`
     justify-content: center;
 `
 
+export const Content = styled.div`
+    width: 50%;
+    height: 70%;
+    background-color: #CACACA;
+`
+
 export const Row = styled.div`
     display: flex;
     flex-direction: row;
